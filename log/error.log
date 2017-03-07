@@ -1,0 +1,93 @@
+2017-02-24 17:18:01,131 [Thread-2:22340] [blog.views:11] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2017-02-24 23:51:02,703 [Thread-2:27828] [blog.views:26] [views:index] [ERROR]- [Errno 2] No such file or directory: 'qqq.txt'
+2017-02-24 23:51:04,707 [Thread-8:28288] [blog.views:26] [views:index] [ERROR]- [Errno 2] No such file or directory: 'qqq.txt'
+2017-02-24 23:51:06,351 [Thread-14:28152] [blog.views:26] [views:index] [ERROR]- [Errno 2] No such file or directory: 'qqq.txt'
+2017-02-25 09:28:38,845 [Thread-2:31156] [bblog.views:26] [views:index] [ERROR]- [Errno 2] No such file or directory: 'qqq.txt'
+2017-02-25 09:30:04,322 [Thread-2:31652] [bblog.views:26] [views:index] [ERROR]- [Errno 2] No such file or directory: 'qqq.txt'
+2017-02-25 09:33:43,535 [Thread-2:30620] [bblog.views:26] [views:index] [ERROR]- [Errno 2] No such file or directory: 'qqq.txt'
+2017-02-25 09:33:53,648 [Thread-8:31664] [bblog.views:26] [views:index] [ERROR]- [Errno 2] No such file or directory: 'qqq.txt'
+2017-02-25 09:35:01,174 [Thread-2:31172] [bblog.views:26] [views:index] [ERROR]- [Errno 2] No such file or directory: 'qqq.txt'
+2017-02-25 09:35:24,138 [Thread-8:31144] [bblog.views:26] [views:index] [ERROR]- [Errno 2] No such file or directory: 'qqq.txt'
+2017-02-28 10:03:49,637 [Thread-2:48768] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 10:03:58,450 [Thread-6:60076] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 10:04:15,236 [Thread-13:17432] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 10:04:19,096 [Thread-14:56752] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 10:04:23,736 [Thread-15:56484] [bblog.views:39] [views:index] [ERROR]- int() base must be >= 2 and <= 36
+2017-02-28 10:04:25,446 [Thread-17:63208] [bblog.views:39] [views:index] [ERROR]- int() base must be >= 2 and <= 36
+2017-02-28 10:06:13,194 [Thread-18:12752] [bblog.views:39] [views:index] [ERROR]- int() base must be >= 2 and <= 36
+2017-02-28 10:06:58,640 [Thread-23:5628] [bblog.views:39] [views:index] [ERROR]- int() base must be >= 2 and <= 36
+2017-02-28 10:14:59,176 [Thread-27:44308] [bblog.views:39] [views:index] [ERROR]- int() base must be >= 2 and <= 36
+2017-02-28 10:15:24,028 [Thread-30:60420] [bblog.views:39] [views:index] [ERROR]- int() base must be >= 2 and <= 36
+2017-02-28 10:16:13,042 [Thread-77:10256] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 10:16:15,526 [Thread-83:46768] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 10:17:12,490 [Thread-89:3332] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 10:19:52,584 [Thread-95:1792] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 10:20:14,885 [Thread-101:16476] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 10:56:44,867 [Thread-102:44088] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 10:56:47,599 [Thread-103:41488] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:01:18,602 [Thread-104:38376] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:07:36,357 [Thread-110:52628] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:11:08,543 [Thread-115:45416] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:11:38,408 [Thread-119:42672] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:11:57,618 [Thread-122:51348] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:13:42,737 [Thread-125:49564] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:13:55,375 [Thread-126:52524] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:14:11,674 [Thread-127:46312] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:14:27,279 [Thread-128:55392] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:20:52,114 [Thread-129:31912] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:21:04,835 [Thread-130:43652] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:21:08,701 [Thread-131:55888] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:23:35,466 [Thread-160:46908] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:23:40,631 [Thread-161:44868] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:25:30,753 [Thread-166:58632] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:25:36,469 [Thread-172:57476] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:26:08,799 [Thread-173:32128] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:32:05,066 [Thread-179:63112] [bblog.views:39] [views:index] [ERROR]- int() can't convert non-string with explicit base
+2017-02-28 11:32:12,299 [Thread-180:38204] [bblog.views:39] [views:index] [ERROR]- int() base must be >= 2 and <= 36
+2017-02-28 16:31:03,529 [Thread-2:19548] [bblog.views:47] [views:index] [ERROR]- 'Manager' object has no attribute 'distinct_date'
+2017-02-28 16:35:13,930 [Thread-2:24844] [bblog.views:48] [views:index] [ERROR]- 'Manager' object has no attribute 'distinct_date'
+2017-02-28 16:35:36,671 [Thread-4:16408] [bblog.views:48] [views:index] [ERROR]- 'Manager' object has no attribute 'distinct_date'
+2017-03-06 16:46:42,871 [Thread-17:5704] [bblog.views:148] [views:comment_post] [ERROR]- Cannot assign "u'6'": "Comment.article" must be a "Article" instance.
+2017-03-06 16:48:12,361 [Thread-2:18404] [bblog.views:148] [views:comment_post] [ERROR]- Cannot assign "u'6'": "Comment.article" must be a "Article" instance.
+2017-03-06 16:48:16,585 [Thread-4:8724] [bblog.views:148] [views:comment_post] [ERROR]- Cannot assign "u'6'": "Comment.article" must be a "Article" instance.
+2017-03-06 16:49:59,173 [Thread-2:9956] [bblog.views:148] [views:comment_post] [ERROR]- Cannot assign "u'6'": "Comment.article" must be a "Article" instance.
+2017-03-06 16:50:08,921 [Thread-4:18520] [bblog.views:148] [views:comment_post] [ERROR]- Cannot assign "u'6'": "Comment.article" must be a "Article" instance.
+2017-03-06 18:26:04,173 [Thread-27:8936] [bblog.views:149] [views:comment_post] [ERROR]- Cannot assign "u'3'": "Comment.article" must be a "Article" instance.
+2017-03-06 18:26:24,052 [Thread-30:14072] [bblog.views:149] [views:comment_post] [ERROR]- Cannot assign "u'3'": "Comment.article" must be a "Article" instance.
+2017-03-06 18:27:55,196 [Thread-71:10100] [bblog.views:149] [views:comment_post] [ERROR]- Cannot assign "u'6'": "Comment.article" must be a "Article" instance.
+2017-03-06 18:38:58,198 [Thread-37:8044] [bblog.views:149] [views:comment_post] [ERROR]- Cannot assign "u'6'": "Comment.article" must be a "Article" instance.
+2017-03-07 09:46:59,727 [Thread-251:680] [bblog.views:149] [views:comment_post] [ERROR]- Cannot assign "u'6'": "Comment.article" must be a "Article" instance.
+2017-03-07 09:47:35,706 [Thread-253:4276] [bblog.views:149] [views:comment_post] [ERROR]- Cannot assign "u'6'": "Comment.article" must be a "Article" instance.
+2017-03-07 09:48:52,687 [Thread-258:2276] [bblog.views:149] [views:comment_post] [ERROR]- Cannot assign "u'6'": "Comment.article" must be a "Article" instance.
+2017-03-07 10:16:21,674 [Thread-19:200] [bblog.views:129] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 10:16:57,460 [Thread-28:5048] [bblog.views:129] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 10:17:37,615 [Thread-39:4968] [bblog.views:129] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 10:20:01,517 [Thread-4:3564] [bblog.views:129] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 10:20:52,201 [Thread-2:412] [bblog.views:129] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 10:22:41,776 [Thread-2:3268] [bblog.views:130] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 10:23:54,825 [Thread-2:412] [bblog.views:130] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 10:25:16,520 [Thread-2:308] [bblog.views:131] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 10:56:01,632 [Thread-2:2796] [bblog.views:130] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 11:00:01,367 [Thread-2:4632] [bblog.views:130] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 11:00:44,963 [Thread-15:4792] [bblog.views:130] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 11:01:15,555 [Thread-2:1608] [bblog.views:130] [views:article] [ERROR]- 'list' object has no attribute 'appen'
+2017-03-07 11:06:47,733 [Thread-56:3608] [bblog.views:151] [views:comment_post] [ERROR]- Cannot assign "u'7'": "Comment.article" must be a "Article" instance.
+2017-03-07 11:16:38,562 [Thread-2:2160] [bblog.views:152] [views:comment_post] [ERROR]- Cannot assign "u'7'": "Comment.article" must be a "Article" instance.
+2017-03-07 11:17:53,642 [Thread-4:1080] [bblog.views:152] [views:comment_post] [ERROR]- Cannot assign "u'7'": "Comment.article" must be a "Article" instance.
+2017-03-07 11:26:01,852 [Thread-4:3640] [bblog.views:152] [views:comment_post] [ERROR]- Cannot assign "u'7'": "Comment.article" must be a "Article" instance.
+2017-03-07 11:39:22,200 [Thread-2:4852] [bblog.views:130] [views:article] [ERROR]- (1054, "Unknown column 'bblog_comment.content' in 'field list'")
+2017-03-07 11:39:33,507 [Thread-4:4084] [bblog.views:152] [views:comment_post] [ERROR]- 'ename' is an invalid keyword argument for this function
+2017-03-07 11:39:33,529 [Thread-5:4324] [bblog.views:130] [views:article] [ERROR]- (1054, "Unknown column 'bblog_comment.content' in 'field list'")
+2017-03-07 11:39:41,066 [Thread-6:4008] [bblog.views:130] [views:article] [ERROR]- (1054, "Unknown column 'bblog_comment.content' in 'field list'")
+2017-03-07 11:40:00,763 [Thread-2:1044] [bblog.views:130] [views:article] [ERROR]- (1054, "Unknown column 'bblog_comment.content' in 'field list'")
+2017-03-07 11:40:43,980 [Thread-8:2996] [bblog.views:130] [views:article] [ERROR]- (1054, "Unknown column 'bblog_comment.content' in 'field list'")
+2017-03-07 11:40:55,194 [Thread-11:716] [bblog.views:130] [views:article] [ERROR]- (1054, "Unknown column 'bblog_comment.content' in 'field list'")
+2017-03-07 11:41:10,657 [Thread-17:4940] [bblog.views:152] [views:comment_post] [ERROR]- Cannot assign "u'7'": "Comment.article" must be a "Article" instance.
+2017-03-07 11:41:10,680 [Thread-18:600] [bblog.views:130] [views:article] [ERROR]- (1054, "Unknown column 'bblog_comment.content' in 'field list'")
+2017-03-07 11:42:29,016 [Thread-8:3220] [bblog.views:152] [views:comment_post] [ERROR]- Cannot assign "u'7'": "Comment.article" must be a "Article" instance.
+2017-03-07 11:43:41,862 [Thread-3:3444] [bblog.views:152] [views:comment_post] [ERROR]- 'ename' is an invalid keyword argument for this function
+2017-03-07 11:44:22,421 [Thread-12:3428] [bblog.views:152] [views:comment_post] [ERROR]- 'ename' is an invalid keyword argument for this function
+2017-03-07 11:59:28,246 [Thread-19:4872] [bblog.views:152] [views:comment_post] [ERROR]- 'ename' is an invalid keyword argument for this function
+2017-03-07 12:01:50,257 [Thread-33:4632] [bblog.views:152] [views:comment_post] [ERROR]- 'ename' is an invalid keyword argument for this function
+2017-03-07 12:05:39,822 [Thread-35:1272] [bblog.views:152] [views:comment_post] [ERROR]- 'ename' is an invalid keyword argument for this function
+2017-03-07 12:06:09,223 [Thread-43:1800] [bblog.views:152] [views:comment_post] [ERROR]- 'ename' is an invalid keyword argument for this function

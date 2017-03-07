@@ -1,0 +1,50 @@
+{% load static %}
+<div class="banner">
+      <div id="slide-holder">
+        <div id="slide-runner">
+{#            {% for ad in ad_list %}#}
+            <a href="/" target="_blank"><img id="slide-img-1" src="/uploads/ad/2017/03/a1.jpg"   alt="梦幻西游1" /></a>
+            <a href="/" target="_blank"><img id="slide-img-2" src="/uploads/ad/2017/03/a2.jpg"   alt="梦幻西游2" /></a>
+            <a href="/" target="_blank"><img id="slide-img-3" src="/uploads/ad/2017/03/a3.jpg"   alt="梦幻西游3" /></a>
+            <a href="/" target="_blank"><img id="slide-img-4" src="/uploads/ad/2017/03/a4.jpg"   alt="梦幻西游4" /></a>
+{#           {#{% endfor %}#}
+{# src={% static "/uploads='ad/{{ ad_list.date_publish |slice:':4' }}/{{ ad_list.date_publish |slice:'5:7' }}'/{{ ad_list.title }}.jpg" %} alt="梦幻西游" /></a>       #}
+          <div id="slide-controls">
+            <p id="slide-client" class="text"><strong></strong><span></span></p>
+            <p id="slide-desc" class="text"></p>
+            <p id="slide-nav"></p>
+          </div>
+        </div>
+      </div>
+      <script>
+    if(!window.slider) {
+    var slider={};
+  }
+
+  slider.data= [
+
+    {
+        "id":"slide-img-1", // 与slide-runner中的img标签id对应
+        "client":"这是个",
+        "desc":"美好的夜晚" //这里修改描述
+    },
+    {
+        "id":"slide-img-2",
+        "client":"我希望",
+        "desc":"你天天都能开心"
+    },
+    {
+        "id":"slide-img-3",
+        "client":"没关系",
+        "desc":"誓随你海角天涯"
+    },
+      {
+          "id": "slide-img-4",
+          "client": "没有话",
+          "desc": "明眸含着泪花"
+      }
+
+  ];
+
+    </script>
+    </div>
